@@ -51,7 +51,7 @@ Training the model will require NVidia GPU. In order to modify the learning rate
 ```bash
 python hrnetTrainer.py
 ```
-## 3. System Testers
+### 3. System Testers
 There are a few scripts to test various components of the system.
 ### Test the Model on One Frame:
 The `hrnetTester.pt` script will test the accuracy of the model by loading a single frame on a desired model and showing it with the corresponding keypoints, the target ground truth for each keypoint (GT keypoint n), the confidence level for each predicted keypoint, 
