@@ -21,12 +21,12 @@ This project's implementation draws inspiration from Bin Xiao's official HRNet r
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/markshperkin/SwimmingPoseEstimation.git
+    git clone https://github.com/csce585-mlsystems/FancyBear.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd SwimmingPoseEstimation
+    cd FancyBear/Swimming_Pose_Estimation
     ```
 
 3. Install the required packages:
