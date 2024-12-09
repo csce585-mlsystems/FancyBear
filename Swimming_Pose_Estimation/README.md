@@ -21,12 +21,12 @@ This project's implementation draws inspiration from Bin Xiao's official HRNet r
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/markshperkin/SwimmingPoseEstimation.git
+    git clone https://github.com/csce585-mlsystems/FancyBear.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd SwimmingPoseEstimation
+    cd FancyBear/Swimming_Pose_Estimation
     ```
 
 3. Install the required packages:
@@ -51,7 +51,7 @@ Training the model will require NVidia GPU. In order to modify the learning rate
 ```bash
 python hrnetTrainer.py
 ```
-## 3. System Testers
+### 3. System Testers
 There are a few scripts to test various components of the system.
 ### Test the Model on One Frame:
 The `hrnetTester.pt` script will test the accuracy of the model by loading a single frame on a desired model and showing it with the corresponding keypoints, the target ground truth for each keypoint (GT keypoint n), the confidence level for each predicted keypoint, 
