@@ -4,7 +4,7 @@
 This project focuses on adapting a High-Resolution Network (HRNet) for pose estimation in an underwater swimming environment. Pose estimation underwater presents unique challenges, including light refraction, motion distortion, and occlusions caused by water turbulence. 
 Leveraging HRNet's ability to maintain high-resolution representations throughout the process, this project aims to overcome these obstacles and achieve accurate keypoint detection.
 
-## Final Presentation
+## Final Presentation Video
 Here is the [link](https://youtu.be/33pMYfhxez0) for the final presentation. I hope you will enjoy it.
 
 ## Data Collection
